@@ -135,3 +135,26 @@ font-weight: 700;
   line-height:2em;
   color: rgb(183, 181, 181);
 }
+.card1{
+  margin-top: 50px;
+  color: bisque;
+  background-color:#b99272;
+}
+.all{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.aa{
+  width: 150px;
+  height: 150px;
+  margin-left: 15px;
+}
+.aaa{
+  line-height: 2em;
+  font-size:large;
+  font-weight: 700;
+}
+.abc{
+  width: 1200px;
+  margin-left: 200px;
+}
