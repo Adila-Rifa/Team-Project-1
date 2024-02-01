@@ -59,7 +59,7 @@ font-size:20px;
   width: auto;
   height: 150px;
   margin-top: 60px;
-  background-image: url(/assets/images/menu-bg.jpg);
+  background-color: black;
 }
 .nav-link {
   color: hsl(0, 0%, 100%);
