@@ -166,7 +166,7 @@ font-weight: 700;
   height:370px;
   margin-left: 50px;
 }
-.cotta{
+.bw{
   width:370px;
   height:300px;
   position: relative;
@@ -192,6 +192,27 @@ border-radius: 5%;
  transition: all 0.5s;
 }
 
+.caption h1{
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: #ffffff;
+}
+.fa-utensils{
+  font-size: 50px;
+  color: #ffffff;
+
+}
+.bw:hover .caption{
+  opacity:1;
+  border-radius: 5%;
+  border:2px solid hsl(27, 34%, 58%);
+  
+}
+
+.bw:hover img{
+  transform: scale(1.02);
+  cursor: pointer;
+}
 
 .logos{
   background-color: hsla(0, 0%, 100%, 0.6); 
